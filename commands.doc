@@ -1,4 +1,10 @@
-git config --global user.name "Nitin Sanap"
-git config --global user.email nitinsanap990@gmail.com
 git init Project
 cd Project
+git config --global user.name "Nitin Sanap"
+git config --global user.email nitinsanap990@gmail.com
+
+git status
+git rm --cached style.css
+git status
+git commit -m "changes in html file"
+git commit -m "changes in both css and js file"
