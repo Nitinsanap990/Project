@@ -1,0 +1,4 @@
+git config --global user.name "Nitin Sanap"
+git config --global user.email nitinsanap990@gmail.com
+git init Project
+cd Project
